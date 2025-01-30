@@ -1,5 +1,3 @@
-from turtledemo.penrose import start
-
 fires = input().split("#")
 
 amount_of_water = int(input())
